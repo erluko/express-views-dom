@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/adjohnson916/express-views-dom",
   "dependencies": {
-    "jsdom": "~0.8.10"
+      "jsdom": "^14.0.0"
   },
   "peerDependencies": {
-    "express": "~3.0"
+    "express": "^4.16.4"
   }
 }
